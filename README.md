@@ -8,7 +8,7 @@ The goal of this portfolio is to demonstrate my ability to design, develop, and 
 It reflects both my technical ability and my growth through academic, internship, and leadership experience.
 
 ## Live Demo
-https://yourusername.github.io/portfolio/
+https://lindokuhlemg.github.io/My-Portfolio/
 
 ## Purpose of This Project
 This portfolio was built to:
@@ -51,7 +51,7 @@ Each project demonstrates problem-solving skills, software design principles, an
 To run this project locally:
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/portfolio.git
+   git clone https://github.com/LindokuhleMg/My-Portfolio.git 
 
 2. Open the project folder
 
@@ -67,7 +67,7 @@ To run this project locally:
 ## Contact Information
 Email: mgodukalindokuhle5@gmail.com 
 LinkedIn: https://www.linkedin.com/in/lindokuhle-mgoduka  
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/LindokuhleMg
 
 ## Author
 Lindokuhle Mgoduka

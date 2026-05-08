@@ -15,7 +15,7 @@ body{
     overflow-x:hidden;
 }
 
-/* NAVBAR */
+/* Navigation bar */
 
 .navbar{
     position:sticky;
@@ -82,7 +82,7 @@ body{
     cursor:pointer;
 }
 
-/* HERO */
+/* Hero Section */
 
 .hero{
     position:relative;
@@ -136,19 +136,6 @@ body{
     flex-wrap:wrap;
     margin-top:20px;
 }
-
-/* LINKS & BUTTONS for contact*/
-.link{
-    color:#64ffda;
-    text-decoration:none;
-    border-bottom:1px solid transparent;
-    transition:0.3s;
-}
-
-.link:hover{
-    border-bottom:1px solid #64ffda;
-}
-
 
 .cta,
 .button{
@@ -229,7 +216,7 @@ body{
     transform:scale(1.03);
 }
 
-/* STATS */
+/* Stats Section */
 
 .stats{
     display:flex;
@@ -391,14 +378,6 @@ footer{
     transform:scale(1.1);
 }
 
-/* MOBILE */
-
-@media(max-width:800px){
-
-.navbar{
-    padding:15px 20px;
-}
-
 /* LINKS & BUTTONS for contact*/
 .link{
     color:#64ffda;
@@ -409,6 +388,16 @@ footer{
 
 .link:hover{
     border-bottom:1px solid #64ffda;
+}
+
+
+/* MEDIA QUERIES FOR RESPONSIVENESS */
+
+/* Mobile Styles */
+@media(max-width:800px){
+
+.navbar{
+    padding:15px 20px;
 }
 
 .logo{
@@ -485,6 +474,18 @@ footer{
 
 .stat-box{
     width:100%;
+}
+
+/* LINKS & BUTTONS for contact*/
+.link{
+    color:#64ffda;
+    text-decoration:none;
+    border-bottom:1px solid transparent;
+    transition:0.3s;
+}
+
+.link:hover{
+    border-bottom:1px solid #64ffda;
 }
 
 }
